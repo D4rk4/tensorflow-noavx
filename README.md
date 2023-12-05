@@ -1,6 +1,7 @@
 # TensorFlow without AVX
 
-This repository contains a build of TensorFlow that is compiled without AVX (Advanced Vector Extensions) instructions. This is particularly useful for running TensorFlow on older CPUs that do not support AVX.
+This repository provides a build environment tailored for compiling TensorFlow without the use of AVX (Advanced Vector Extensions) instructions. This adaptation is especially beneficial for operating TensorFlow on older CPU models lacking AVX support, as well as on certain newer low-end Intel processors, such as the J4005.
+
 
 ## Installation
 
